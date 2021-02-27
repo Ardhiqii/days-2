@@ -1,2 +1,0 @@
-day 1 bikin di codesandbox
-link : https://codesandbox.io/s/arc-oxu9n?file=/index.html
